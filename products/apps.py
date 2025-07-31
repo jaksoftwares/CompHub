@@ -1,5 +1,5 @@
 #products/apps.py
-# Vendor-specific functionality, shop profiles, and verification
+# Product listings, categories, and inventory management
 from django.apps import AppConfig
 
 
